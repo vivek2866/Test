@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/A_Getting Started/Basic Steps.htm'],s:['0'],p:[['0',2],['gdmerak',11],['rcplabd',3],['ynuq',2]]});
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/A_Getting Started/Basic Steps.htm'],s:['0'],p:[['0',2],['fop',14],['placeholder',23],['vour',2]]});

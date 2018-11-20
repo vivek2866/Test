@@ -11,4 +11,6 @@
   Type="scm"
   ProviderType="Git"
   Database="C:\CMS project\test\.git"
-  DatabaseRoot="C:\CMS project\test"></CatapultDestination>
+  DatabaseRoot="C:\CMS project\test"
+  PushToRemote="false"
+  RemoteRepository="origin"></CatapultDestination>

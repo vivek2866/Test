@@ -1,5 +1,7 @@
 /*<meta />*/
 
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
 /* Home Page General Styles*/
 
 body
@@ -297,7 +299,7 @@ div.footer > div.outer-row
 	padding: 0;
 }
 
- .footer-logo
+.footer-logo
 {
 	max-width: 100%;
 }
@@ -658,7 +660,7 @@ div.HomeVideoSection > div:nth-child(3)
 
 /* Medium Layout */
 
-@media tablet
+@media only screen and (max-width: 1279px)
 {
 	#content-section .right-section,
 	#content-section .left-section
@@ -770,13 +772,13 @@ div.HomeVideoSection > div:nth-child(3)
 
 /* Small Layout */
 
-@media mobile
+@media only screen and (max-width: 767px)
 {
 	MadCap|searchBarProxy.homeSearchBar
 	{
 		width: 100%;
 	}
-	
+
 	.left-content
 	{
 		margin-bottom: 60px;
@@ -905,3 +907,4 @@ div.HomeVideoSection > div:nth-child(3)
 		margin-left: 0%;
 	}
 }
+

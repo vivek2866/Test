@@ -13,4 +13,6 @@
   Database="C:\CMS project\test\.git"
   DatabaseRoot="C:\CMS project\test"
   PushToRemote="false"
-  RemoteRepository="origin"></CatapultDestination>
+  RemoteRepository="origin"
+  ChangedOnly="true"
+  RemoveStale="true"></CatapultDestination>
